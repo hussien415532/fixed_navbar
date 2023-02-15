@@ -43,6 +43,11 @@ nav
     -moz-transition: 0.3s linear;
     -ms-transition: 0.3s linear;
     -o-transition: 0.3s linear;
+     transform: translateY(-100%);
+    -webkit-transform: translateY(-100%);
+    -moz-transform: translateY(-100%);
+    -ms-transform: translateY(-100%);
+    -o-transform: translateY(-100%);
   
 }
 nav a
